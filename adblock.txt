@@ -1,5 +1,5 @@
 ! Title: Tyler's Personal DNS Blocklist
-! Last modified: 11 Dec 2023 21:00 MST
+! Last modified: 11 Dec 2023 21:21 MST
 ! Syntax: AdBlock
 !
 ||0008d6ba2e.com^
@@ -42585,6 +42585,8 @@
 ||porndox.com^
 ||plx.pornes.xxx^
 ||hubt.pornhub.com^
+||pornhub.com^
+||xvideos.com^
 ||pornissex.com^
 ||pornjustx.com^
 ||pornlash.com^
@@ -60129,3 +60131,4 @@
 ||zzyy18.top^
 ||zzyy20.top^
 ||zzzperform.com^
+||*.xxx^
