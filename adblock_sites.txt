@@ -1,5 +1,5 @@
 ! Title: Tyler's Personal DNS Blocklist
-! Last modified: 11 Dec 2023 21:21 MST
+! Last modified: 12 Dec 2023 21:50 MST
 ! Syntax: AdBlock
 !
 ||0008d6ba2e.com^
@@ -52985,7 +52985,6 @@
 ||total-cloud.biz^
 ||totalab.online^
 ||totalactualnewz.com^
-||totalav.com^
 ||marketing.totalcsr.com^
 ||totalfreshwords.com^
 ||dioqto.totaljobs.com^
